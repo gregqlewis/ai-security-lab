@@ -167,7 +167,7 @@ ai-security-lab/
 ├── images/
 │   └── garak/                     # Screenshots from each probe suite
 └── docs/
-    └── lab-guide.md               # End-to-end lab reproduction guide
+    └── findings-report.md         # Full findings report with executive summary and evidence
 ```
 
 ---
